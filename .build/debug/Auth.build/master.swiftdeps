@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "85f4cd366dfbf71354af6b837010cf84"
+build_time: [535254129, 626721000]
+inputs:
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/AuthError.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/AuthMiddleware.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/CacheSessionManager.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/ProtectMiddleware.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Request+Subject.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Authenticator/Authenticator.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Authenticator/Realm.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Authenticator/User+Authenticator.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Credentials/Identifier.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Header/Authorization.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Header/Basic.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Header/Bearer.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/Header/Request+Authorization.swift": [535252514, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Vapor-1.3.1/Sources/Auth/Authentication/User/User.swift": [535252514, 0]

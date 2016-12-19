@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/rc2cfb64.c \
+  /Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/module.modulemap \
+  /Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc2.h \
+  /Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslconf.h \
+  /Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslfeatures.h \
+  /Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/rc2_locl.h

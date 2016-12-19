@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a2ea5fb40ef9efa71d38ff91729cae2c"
+build_time: [535254120, 471199000]
+inputs:
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": [535252565, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Config.swift": [535252565, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Context.swift": [535252565, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Error.swift": [535252565, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": [535252565, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": [535252565, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": [535252565, 0]

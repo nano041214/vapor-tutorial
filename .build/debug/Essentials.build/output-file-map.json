@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/master.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/ByteStream.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/ByteStream.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/ByteStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/ByteStream.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/Helpers.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/Helpers.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/Essentials.build/Helpers.swiftdeps"
+  }
+}

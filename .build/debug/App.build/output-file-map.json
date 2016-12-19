@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Sources/App/main.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/main.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/PostController.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/Post.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/App.build/Post.swiftdeps"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/master.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Certificates.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Certificates.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Certificates~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Certificates.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Config.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Config.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Config.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Config~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Config.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Context.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Context.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Context.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Context.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Error.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Error.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Error.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Error.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Mode.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Mode.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Mode~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Mode.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Socket.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Socket.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Socket.swiftdeps"
+  },
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": {
+    "dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Utilities.d",
+    "object": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Utilities.swift.o",
+    "swiftmodule": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/.build/debug/TLS.build/Utilities.swiftdeps"
+  }
+}

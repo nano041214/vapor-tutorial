@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "580228d41812cb0e5efd3645618facfc"
+build_time: [535252617, 814000]
+inputs:
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/AuthorizationCode.swift": [535252586, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Facebook.swift": [535252586, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Google.swift": [535252586, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2.swift": [535252586, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Error.swift": [535252586, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Token.swift": [535252586, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/URLSession+Turnstile.swift": [535252584, 0]
+  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/WebMemoryRealm.swift": [535252586, 0]
