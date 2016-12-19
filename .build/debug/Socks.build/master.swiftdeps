@@ -1,9 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "1023587069373f571c407266db070aa1"
-build_time: [535252608, 371046000]
-inputs:
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Socks-1.2.2/Sources/Socks/Socks.swift": [535252568, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Socks-1.2.2/Sources/Socks/SynchronousTCPServer.swift": [535252568, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Socks-1.2.2/Sources/Socks/SynchronousUDPServer.swift": [535252568, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Socks-1.2.2/Sources/Socks/TCPClient.swift": [535252568, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Socks-1.2.2/Sources/Socks/UDPClient.swift": [535252568, 0]

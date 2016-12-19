@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "f07c1e2017927c77eccb74f5a8f061d9"
-build_time: [535254128, 101872000]
-inputs:
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Routing-1.0.1/Sources/TypeSafeRouting/Generated.swift": [535252593, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Routing-1.0.1/Sources/TypeSafeRouting/StringInitializable.swift": [535252593, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Routing-1.0.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [535252593, 0]

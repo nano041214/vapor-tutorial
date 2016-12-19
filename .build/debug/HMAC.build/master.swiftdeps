@@ -1,6 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "3692151ee1d137039d62bfdcac0dc160"
-build_time: [535254121, 961194000]
-inputs:
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Crypto-1.0.1/Sources/HMAC/HMAC.swift": [535252522, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Packages/Crypto-1.0.1/Sources/HMAC/Method.swift": [535252522, 0]

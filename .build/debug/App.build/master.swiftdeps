@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "93f366195b9de8a97789c2d56170f9a5"
-build_time: [535254137, 389506000]
-inputs:
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Sources/App/main.swift": [535252950, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Sources/App/Controllers/PostController.swift": [535252189, 0]
-  "/Users/naomi-hidaka/src/github.com/nano041214/vapor-tutorial/Sources/App/Models/Post.swift": [535252189, 0]
